@@ -1,0 +1,18 @@
+# Object files
+*.o
+
+# Visual studio files
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+[Pp]roperties/
+
+*.sdf
+*.opensdf
+*.opendb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.config
+*.csproj
